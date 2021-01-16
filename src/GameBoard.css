@@ -1,0 +1,36 @@
+.game-board {
+    background-color: lightgray;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+}
+
+.game-panel {
+    margin: 20px;
+}
+
+.game-title {
+    font-size: 50px;
+}
+
+.game-status {
+    font-size: 30px;
+}
+
+.cell {
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-size: 80px;
+    cursor: pointer;
+}
+
+button {
+    padding: 10px;
+    font-size: 20px;
+}
