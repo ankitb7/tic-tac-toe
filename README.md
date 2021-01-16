@@ -2,6 +2,8 @@
 
 Tic tac toe game for 2 players
 
+Try it out here: https://ankitb7.github.io/tic-tac-toe
+
 ## Available Scripts
 
 In the project directory, you can run:
